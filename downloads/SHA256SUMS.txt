@@ -1,0 +1,1 @@
+c49519be0af6229f5397b2e30cb53ba9f6ca67f9480f5cf732ad0c3098704e66  SipStretch-1.0.0-Windows-Portable.zip
